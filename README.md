@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @biancaquis
+- 👋 Hi, I’m @biancaquis.
 - 👀 I’m interested in becoming a cybersecurty analyst.
 - 🌱 I’m currently learning about frameworks and networks.
-- 💞️ I’m looking to collaborate on building a quality resumer portfolio.
+- 💞️ I’m looking to collaborate on building a quality resume portfolio.
 - 📫 How to reach me: bianca.quisenberry@gmail.com
 
 <!---
